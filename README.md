@@ -6,3 +6,4 @@
 5. [2.3.4 나이브 베이즈 분류기](https://classy-comet-4f2.notion.site/2-3-4-5c457140637b44eea46e7712e82e7c47)
 6. [2.3.5 결정 트리](https://classy-comet-4f2.notion.site/2-3-5-871123a9050e4ba0a7059fbba2112e2a)
 7. [2.3.6 결정 트리의 앙상블](https://classy-comet-4f2.notion.site/2-3-6-76af783ad38c4023a09e1296d01c40fd)
+8. [2.3.7 배깅, 엑스트라 트리, 에이다부스트](https://classy-comet-4f2.notion.site/2-3-7-1830a74828d845d7b2fad9fae47c56ad)
