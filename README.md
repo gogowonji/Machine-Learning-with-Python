@@ -9,5 +9,5 @@
 8. [2.3.7 배깅, 엑스트라 트리, 에이다부스트](https://classy-comet-4f2.notion.site/2-3-7-1830a74828d845d7b2fad9fae47c56ad)
 9. [2.3.8 커널 서포트 벡터 머신](https://classy-comet-4f2.notion.site/2-3-8-dd40dc9a476746178c97f4f745971fd9)
 10. [2.3.9 신경망(딥러닝)](https://classy-comet-4f2.notion.site/2-3-9-a7cdf361eb8c436aae4482aa33f5ffd0)
-
+11. [2.4 분류 예측의 불확실성 추정](https://classy-comet-4f2.notion.site/2-4-c65761b3be174b13bf71568bb7ce1baf)
 
